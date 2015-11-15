@@ -1,0 +1,92 @@
+.nav a {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+}
+
+.jumbotron {
+  background-image:url('http://egyptlastminute.com/wp-content/uploads/2012/10/Khan-Elkhalily-bazaar.jpg');
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.tabl tr{
+  color: #2A1B0A;
+  font-size: 20px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+.jumbotron .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 50px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+ 
+}
+
+.jumbotron p {
+  font-size: 30px;
+  color: #fff;
+  margin-left:190px;
+}
+
+.learn-more {
+  background-color: #f7f7f7;
+}
+
+.learn-more h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.learn-more a {
+  color: #00b0ff;
+}
+.neighborhood-guides {
+    background-color:#efefef;
+    border-bottom:1px solid #dbdbdb;
+}
+.neighborhood-guides h2 {
+    color:#393c3d;
+    font-size:24px;
+}
+.neighborhood-guides p {
+    font-size:15px;
+    margin-bottom:13px;
+}
+.neighborhood-guides a {
+    height:800px;
+    width:200px;
+}
+.footer {
+   
+    margin-left:100px; 
+    margin-right:100px;
+    width: 1200px;
+    height: 100px;
+    position:relative;
+    background-image:url('http://egyptlastminute.com/wp-content/uploads/2012/10/Khan-Elkhalily-bazaar.jpg');
+    background-color:#B87333;
+    box-shadow: 15px 15px 5px #efefef;
+}
+.footer p {
+   font-size: 30px;
+  color: #fff;
+  margin-left:190px; 
+  
+}
+.footer a{
+ color: #E2CB8D;   
+}
